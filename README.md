@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mazhar Hussain</h1>
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazharhussain786&label=Profile%20views&color=0e75b6&style=flat" alt="mazharhussain786" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazharhussain786" alt="mazharhussain786" /></a> </p>
 
 - 🔭 I’m currently working on **Pizza Tracking System**
 
@@ -16,7 +14,7 @@
 
 - ⚡ Fun fact **You should funny if u want to code...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
